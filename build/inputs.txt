@@ -1,0 +1,45 @@
+# Cada línea que empiece con # será ignorada en el programa
+# Las llaves pueden estar de las formas
+# 1 5 8 10 13 14 17 18 19 20 21 22 24 28 29 30 31 34 35 37 38 39 44 47 49
+# 1,5,8,10,13,14,17,18,19,20,21,22,24,28,29,30,31,34,35,37,38,39,44,47,49
+# No importará si tienen espacios entre las comas, luego corta los espacios,
+# dejando únicamente los números
+# Si la primera línea está separada por espacios o comas, no leerá el resto de líneas
+# O puede un número por línea
+# 14
+# 1
+# 17
+# 5
+# ...
+40
+-14
+-37
+-33
+-3
+46
+-30
+-28
+-34
+-11
+6
+17
+19
+45
+-20
+-29
+44
+39
+33
+-6
+32
+-9
+-27
+-4
+-22
+24
+-43
+-45
+-16
+31
+49
+24
